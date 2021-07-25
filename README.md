@@ -1,5 +1,5 @@
 # Sentiment_Analysis_SVM
-![](Report/SVM.png)
+![](Results/SVM.png)
 This Repository consist of project which we carried out as a part of my coursework in Machine Learning.
 We implemented a Support Vector Classifier from scratch using (crammer-singer formulation, paper provided in the report folder) and trained it on the use case of sentiment analysis.
 We did Sentiment Analysis on IMDB movie review data(from kaggle, whose link is provided in the data folder).
